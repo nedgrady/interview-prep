@@ -1,0 +1,22 @@
+{
+  "name": "noughts-and-crosses",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nedgrady/interview-prep.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nedgrady/interview-prep/issues"
+  },
+  "homepage": "https://github.com/nedgrady/interview-prep#readme",
+  "dependencies": {
+    "jest": "^26.0.1"
+  }
+}
